@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'Confortaa';
+    src: url(../fonts/Comfortaa/Comfortaa-Regular.woff) format('woff'),
+     url(../fonts/Comfortaa/Comfortaa-Regular.woff2) format('woff2'),
+      url(../fonts/Comfortaa/Comfortaa-VariableFont_wght.ttf) format('ttf'),
+      url(../fonts/Comfortaa/Comfortaa-Regular.svg) format('svg');
+ font-weight: normal;
+ font-style: normal;
+ font-display: swap;
+}
+
+
+@font-face {
+    font-family:'Pacifico';
+    src: url(../fonts/Pacifico/Pacifico-Regular.woff)  format('woff'),
+         url(../fonts/Pacifico/Pacifico-Regular.woff2)  format('woff2'),
+         url(../fonts/Pacifico/Pacifico-Regular.ttf) format('ttf'),
+         url(../fonts/Pacifico/Pacifico-Regular.svg)  format('svg');
+ font-weight: normal;
+ font-style: normal;
+ font-display: swap;
+}
